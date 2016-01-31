@@ -1,0 +1,22 @@
+<map id="xmm.h" name="xmm.h">
+<area shape="rect" id="node2" href="$xmm_gmm_8hpp.html" title="models/gmm/xmmGmm.hpp" alt="" coords="179,179,368,204"/>
+<area shape="rect" id="node43" href="$xmm_hierarchical_hmm_8hpp.html" title="models/hmm/xmmHierarchical\lHmm.hpp" alt="" coords="221,85,422,124"/>
+<area shape="rect" id="node3" href="$xmm_model_8hpp.html" title="../../core/model/xmmModel.hpp" alt="" coords="798,252,1002,277"/>
+<area shape="rect" id="node28" href="$xmm_gaussian_distribution_8hpp.html" title="../../core/distributions\l/xmmGaussianDistribution.hpp" alt="" coords="120,399,323,437"/>
+<area shape="rect" id="node29" href="$xmm_gmm_single_class_8hpp.html" title="xmmGmmSingleClass.hpp" alt="" coords="392,252,571,277"/>
+<area shape="rect" id="node4" href="$xmm_model_configuration_8hpp.html" title="xmmModelConfiguration.hpp" alt="" coords="812,325,1004,351"/>
+<area shape="rect" id="node15" href="$xmm_model_single_class_8hpp.html" title="xmmModelSingleClass.hpp" alt="" coords="1080,325,1262,351"/>
+<area shape="rect" id="node26" href="$xmm_model_results_8hpp.html" title="xmmModelResults.hpp" alt="" coords="631,325,788,351"/>
+<area shape="rect" id="node5" href="$xmm_model_parameters_8hpp.html" title="xmmModelParameters.hpp" alt="" coords="347,405,528,431"/>
+<area shape="rect" id="node6" href="$xmm_json_8hpp.html" title="../common/xmmJson.hpp" alt="" coords="439,645,609,671"/>
+<area shape="rect" id="node10" href="$xmm_attribute_8hpp.html" title="../common/xmmAttribute.hpp" alt="" coords="71,645,263,671"/>
+<area shape="rect" id="node16" href="$xmm_circularbuffer_8hpp.html" title="../common/xmmCircularbuffer.hpp" alt="" coords="552,405,774,431"/>
+<area shape="rect" id="node18" href="$xmm_training_set_8hpp.html" title="../trainingset/xmmTraining\lSet.hpp" alt="" coords="1043,485,1217,524"/>
+<area shape="rect" id="node20" href="$xmm_events_8hpp.html" title="../common/xmmEvents.hpp" alt="" coords="1172,645,1354,671"/>
+<area shape="rect" id="node24" href="$xmm_model_shared_parameters_8hpp.html" title="xmmModelSharedParameters.hpp" alt="" coords="1093,405,1318,431"/>
+<area shape="rect" id="node19" href="$xmm_phrase_8hpp.html" title="xmmPhrase.hpp" alt="" coords="978,572,1097,597"/>
+<area shape="rect" id="node30" href="$xmm_gmm_parameters_8hpp.html" title="xmmGmmParameters.hpp" alt="" coords="378,325,556,351"/>
+<area shape="rect" id="node44" href="$xmm_hmm_single_class_8hpp.html" title="xmmHmmSingleClass.hpp" alt="" coords="392,179,571,204"/>
+<area shape="rect" id="node45" href="$xmm_hmm_parameters_8hpp.html" title="xmmHmmParameters.hpp" alt="" coords="177,325,354,351"/>
+<area shape="rect" id="node46" href="$xmm_hmm_results_8hpp.html" title="xmmHmmResults.hpp" alt="" coords="604,252,757,277"/>
+</map>

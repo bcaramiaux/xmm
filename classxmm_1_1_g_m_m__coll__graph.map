@@ -1,0 +1,12 @@
+<map id="xmm::GMM" name="xmm::GMM">
+<area shape="rect" id="node2" href="$classxmm_1_1_model.html" title="xmm::Model\&lt; SingleClassGMM,\l GMM \&gt;" alt="" coords="1062,56,1274,95"/>
+<area shape="rect" id="node3" href="$classxmm_1_1_writable.html" title="Abstract class for handling JSON + File I/O. " alt="" coords="224,5,331,31"/>
+<area shape="rect" id="node5" href="$classxmm_1_1_class_parameters_3_01_g_m_m_01_4.html" title="Parameters specific to each class of a Gaussian Mixture Model. " alt="" coords="549,72,708,111"/>
+<area shape="rect" id="node4" href="$classxmm_1_1_configuration.html" title="xmm::Configuration\l\&lt; GMM \&gt;" alt="" coords="770,56,907,95"/>
+<area shape="rect" id="node6" href="$classxmm_1_1_attribute.html" title="xmm::Attribute\&lt; double \&gt;" alt="" coords="192,60,363,85"/>
+<area shape="rect" id="node7" href="$classxmm_1_1_attribute_base.html" title="Base Class for Generic Attributes. " alt="" coords="5,123,143,148"/>
+<area shape="rect" id="node8" href="$classxmm_1_1_attribute.html" title="xmm::Attribute\&lt; xmm\l::GaussianDistribution\l::CovarianceMode \&gt;" alt="" coords="202,109,353,161"/>
+<area shape="rect" id="node9" href="$classxmm_1_1_attribute.html" title="xmm::Attribute\&lt; std\l::size_t \&gt;" alt="" coords="209,185,346,224"/>
+<area shape="rect" id="node10" href="$classxmm_1_1_event_generator.html" title="xmm::EventGenerator\l\&lt; xmm::TrainingEvent \&gt;" alt="" coords="758,119,920,157"/>
+<area shape="rect" id="node11" href="$structxmm_1_1_results.html" title="xmm::Results\&lt; xmm::\lGMM \&gt;" alt="" coords="1093,119,1243,157"/>
+</map>

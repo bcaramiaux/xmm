@@ -1,0 +1,17 @@
+<map id="xmmGmm.hpp" name="xmmGmm.hpp">
+<area shape="rect" id="node2" href="$xmm_model_8hpp.html" title="../../core/model/xmmModel.hpp" alt="" coords="455,79,660,104"/>
+<area shape="rect" id="node27" href="$xmm_gaussian_distribution_8hpp.html" title="../../core/distributions\l/xmmGaussianDistribution.hpp" alt="" coords="80,385,283,424"/>
+<area shape="rect" id="node28" href="$xmm_gmm_single_class_8hpp.html" title="xmmGmmSingleClass.hpp" alt="" coords="252,79,431,104"/>
+<area shape="rect" id="node3" href="$xmm_model_configuration_8hpp.html" title="xmmModelConfiguration.hpp" alt="" coords="336,225,528,251"/>
+<area shape="rect" id="node14" href="$xmm_model_single_class_8hpp.html" title="xmmModelSingleClass.hpp" alt="" coords="548,152,730,177"/>
+<area shape="rect" id="node25" href="$xmm_model_results_8hpp.html" title="xmmModelResults.hpp" alt="" coords="315,152,472,177"/>
+<area shape="rect" id="node4" href="$xmm_model_parameters_8hpp.html" title="xmmModelParameters.hpp" alt="" coords="323,392,504,417"/>
+<area shape="rect" id="node5" href="$xmm_json_8hpp.html" title="../common/xmmJson.hpp" alt="" coords="542,472,712,497"/>
+<area shape="rect" id="node9" href="$xmm_attribute_8hpp.html" title="../common/xmmAttribute.hpp" alt="" coords="80,472,272,497"/>
+<area shape="rect" id="node15" href="$xmm_circularbuffer_8hpp.html" title="../common/xmmCircularbuffer.hpp" alt="" coords="296,472,518,497"/>
+<area shape="rect" id="node17" href="$xmm_training_set_8hpp.html" title="../trainingset/xmmTraining\lSet.hpp" alt="" coords="685,299,859,337"/>
+<area shape="rect" id="node19" href="$xmm_events_8hpp.html" title="../common/xmmEvents.hpp" alt="" coords="817,472,1000,497"/>
+<area shape="rect" id="node23" href="$xmm_model_shared_parameters_8hpp.html" title="xmmModelSharedParameters.hpp" alt="" coords="657,225,882,251"/>
+<area shape="rect" id="node18" href="$xmm_phrase_8hpp.html" title="xmmPhrase.hpp" alt="" coords="706,392,825,417"/>
+<area shape="rect" id="node29" href="$xmm_gmm_parameters_8hpp.html" title="xmmGmmParameters.hpp" alt="" coords="217,305,394,331"/>
+</map>
